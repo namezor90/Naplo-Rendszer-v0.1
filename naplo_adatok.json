@@ -1,0 +1,40 @@
+{
+  "diakok": {
+    "D1": {
+      "nev": "Kiss Péter",
+      "osztaly": "9.A",
+      "hianyzasok": {
+        "igazolt": 3,
+        "igazolatlan": 1
+      }
+    },
+    "D2": {
+      "nev": "Nagy Anna",
+      "osztaly": "9.A",
+      "hianyzasok": {
+        "igazolt": 2,
+        "igazolatlan": 0
+      }
+    }
+  },
+  "tantargyak": [
+    "matematika",
+    "magyar",
+    "történelem",
+    "angol"
+  ],
+  "jegyek": {
+    "J1": {
+      "diak_id": "D1",
+      "tantargy": "matematika",
+      "ertek": 5,
+      "datum": "2024-01-15"
+    },
+    "J2": {
+      "diak_id": "D1",
+      "tantargy": "magyar",
+      "ertek": 4,
+      "datum": "2024-01-16"
+    }
+  }
+}
